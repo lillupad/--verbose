@@ -15,9 +15,17 @@ a {
     color: #656567;
 }
 
+#target {
+    font-size: 3vh;
+}
+
 p {
     color: #656567;
-    font-size: 3vh;
+}
+
+#foot {
+    position: absolute;
+    bottom: 0%;
 }
 
 h1 {
